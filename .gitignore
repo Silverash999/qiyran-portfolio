@@ -1,0 +1,15 @@
+# Private source material and internal planning must never enter the public site repo.
+简历内容/
+docs/
+outputs/
+work/
+明日方舟游戏拆解_费用阻挡伤害门槛与技能轴.md
+关卡录屏.mp4
+桌宠演示.mp4
+
+# Local tooling
+tools/
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
